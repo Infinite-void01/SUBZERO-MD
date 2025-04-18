@@ -7,15 +7,15 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     // ===== BOT CORE SETTINGS =====
-    SESSION_ID: process.env.SESSION_ID || "",  // Your bot's session ID (keep it secure)
+    SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~VlQQ2DrA#bxP2wjS_bRUodBd_ChBAdsc9zeR3EJRIEdiGbIXS39Y",  // Your bot's session ID (keep it secure)
     PREFIX: process.env.PREFIX || ".",         // Command prefix (e.g., "., / ! * - +")
     BOT_NAME: process.env.BOT_NAME || "SUBZERO-MD",  // Bot's display name
     MODE: process.env.MODE || "public",        // Bot mode: public/private/group/inbox
     REPO: process.env.REPO || "https://github.com/mrfrankofcc/SUBZERO-MD",  // Bot's GitHub repo
 
     // ===== OWNER & DEVELOPER SETTINGS =====
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "263719647303",  // Owner's WhatsApp number
-    OWNER_NAME: process.env.OWNER_NAME || "Mr Frank",           // Owner's name
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "263777022456",  // Owner's WhatsApp number
+    OWNER_NAME: process.env.OWNER_NAME || "*_⏤͟͞★⃝ꪶ‎𝐷𝛯𝛮𝛧𝛯𝐿🔥⃝ 💀𖥘✪͜͡➺_*",           // Owner's name
     DEV: process.env.DEV || "263719647303",                     // Developer's contact number
     DEVELOPER_NUMBER: '263719647303@s.whatsapp.net',            // Developer's WhatsApp ID
 
